@@ -24,6 +24,6 @@
 TG: @olikataeva\
 olgakataeva@list.ru
 
-![Фото](Certificate manual .png)\
+![Фото](Certificate%20manual%20.png)\
 
-![Фото](Certificate 2.png)
+![Фото](Certificate%202.png)
